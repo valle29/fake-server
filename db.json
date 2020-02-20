@@ -1,9 +1,14 @@
 {
     "posts": [
         {
-        "id": 1,
-        "title": "My post",
-        "body": "My body example"
+            "id": 1,
+            "title": "My post",
+            "body": "My body example"
+        },
+        {
+            "id": 2,
+            "title": "Post number 2",
+            "body": "My body example"
         }
     ],
     "profile": {
